@@ -11,5 +11,8 @@ public class part3_string {
 
         /* Length of String */
         int length = text.length();
+
+        /* Judge if String is empty */
+        boolean empty = text.isEmpty();
     }
 }
