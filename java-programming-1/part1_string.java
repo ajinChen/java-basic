@@ -17,6 +17,12 @@ public class part1_string {
         String start = "Jih";
         String end = "Chen";
         System.out.println(start + "-Chin " + end);
+
+        /* To lower case */
+        start = start.toLowerCase();
+
+        /* Strip the space */
+        start = start.trim();
         
     }
     
