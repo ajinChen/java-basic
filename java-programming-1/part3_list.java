@@ -52,6 +52,9 @@ public class part3_list {
         int trgVal = 15;
         intList.remove(Integer.valueOf(trgVal));
 
+        /* Remove all elems */
+        strList.clear();
+
         /* Contain a Value */
         boolean found = strList.contains("First");
     }
