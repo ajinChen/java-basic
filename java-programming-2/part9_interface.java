@@ -38,6 +38,7 @@ public class part9_interface {
       * 2. Map
       * 3. Set
       * 4. Collection
+      * 5. Comparable<Type>
       */
 
     // 1. List Interface
@@ -54,6 +55,15 @@ public class part9_interface {
     // Both the List and Set interfaces implement the Collection interface. 
     // The Collection interface provides, for instance, methods for checking the existence of an item 
     // (the method contains) and determining the size of a collection (the method size).
+
+    // 5. Comparable Interface
+    // the Member class implements the Comparable interface, it is possible to sort the list by using 
+    // the sorted method. (Member class)
+    
+    /* Implement multiple Interfaces
+     * we can implement multiple interfaces but can only inheritance one superclass
+     */
+    // public class Person implements Comparable<Person>, List, Set {}
 
     }
 }
