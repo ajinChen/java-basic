@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+import selfimpclass.Member;
+import selfimpclass.Screeners;
+
 import java.util.List;
 import java.io.File;
 import java.nio.file.Files;

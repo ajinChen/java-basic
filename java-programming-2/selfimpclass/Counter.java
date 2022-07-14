@@ -1,3 +1,5 @@
+package selfimpclass;
+
 public class Counter {
     
     public int addToNumber(int number) {

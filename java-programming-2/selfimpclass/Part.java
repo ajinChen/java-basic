@@ -1,3 +1,4 @@
+package selfimpclass;
 public class Part {
     
     private String identifier;

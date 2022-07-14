@@ -1,3 +1,5 @@
+package selfimpclass;
+
 public enum Color {
     // constructor parameters are defined as the constants are enumerated
     RED("#FF0000"), GREEN("#00FF00"), BLUE("#0000FF");

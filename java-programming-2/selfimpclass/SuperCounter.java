@@ -1,3 +1,4 @@
+package selfimpclass;
 public class SuperCounter extends Counter{
     
     @Override

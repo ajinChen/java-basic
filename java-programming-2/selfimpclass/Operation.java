@@ -1,3 +1,4 @@
+package selfimpclass;
 import java.util.Scanner;
 
 // Abstract Class

@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
+import selfimpclass.Book;
+
 public class part8_hashmap {
     public static void main(String[] args) {
         /* HashMap */

@@ -1,3 +1,4 @@
+package selfimpclass;
 // Set the Type of Comparable Interface and Implement it
 public class Member implements Comparable<Member>{
     private String name;

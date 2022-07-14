@@ -1,4 +1,4 @@
-package tmppackage.insidepackage;
+package selfimpclass.insidepackage;
 
 public class InnerPackage {
     public static void main(String[] args) {

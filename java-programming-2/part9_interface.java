@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
+
+import selfimpclass.Readable;
+import selfimpclass.TextMessage;
+
 import java.util.HashSet;
 import java.util.Map;
 import java.util.LinkedList;

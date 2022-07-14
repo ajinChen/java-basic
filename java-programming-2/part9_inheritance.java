@@ -1,3 +1,6 @@
+import selfimpclass.Counter;
+import selfimpclass.SuperCounter;
+
 public class part9_inheritance {
     public static void main(String[] args) {
         

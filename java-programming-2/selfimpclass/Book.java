@@ -1,3 +1,5 @@
+package selfimpclass;
+
 public class Book {
     
     private String name;

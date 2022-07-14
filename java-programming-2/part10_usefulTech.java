@@ -1,3 +1,5 @@
+import selfimpclass.Color;
+
 public class part10_usefulTech {
     public static void main(String[] args) {
 

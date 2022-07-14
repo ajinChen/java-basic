@@ -1,8 +1,7 @@
 // define under Package folder
-package tmppackage;
+package selfimpclass;
 
-// import inner package as support
-import tmppackage.insidepackage.InnerPackage;
+import selfimpclass.insidepackage.InnerPackage;
 
 public class FirstPackage {
     public static void main(String[] args) {
