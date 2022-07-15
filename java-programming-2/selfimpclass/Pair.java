@@ -1,19 +1,24 @@
 package selfimpclass;
 
-public class Pair<T, K> {
-    private T first;
-    private K second;
+public class Pair<K, V> {
+    private K key;
+    private V value;
 
-    public void setValue(T first, K second) {
-        this.first = first;
-        this.second = second;
+    public Pair(K key, V value) {
+        this.key = key;
+        this.value = value;
     }
 
-    public T getFirst() {
-        return this.first;
+    public K getKey() {
+        return this.key;
     }
 
-    public K getSecond() {
-        return this.second;
+    public V getValue() {
+        return this.value;
     }
+
+    public void setValue(V value) {
+        this.value = value;
+    }
+
 }
