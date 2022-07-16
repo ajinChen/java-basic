@@ -14,6 +14,5 @@ public class part12_multiDim {
             }
         }
 
-        // 
     }
 }
